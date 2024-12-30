@@ -1,6 +1,6 @@
-# myapp
+# APPLayout
 
-A new Flutter project.
+Sistema desenvolvido como atividade vinculada ao Módulo 2 da disciplina 11 desenvolvimento Web.
 
 ## Getting Started
 
